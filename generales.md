@@ -14,4 +14,4 @@ github: josher0113
 
 Sitio web: josher.web
 
-[Atrás](README.md)
+[<img src = "https://cdn-icons-png.freepik.com/512/9312/9312237.png" width = "100">](README.md)
